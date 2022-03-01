@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "projects": {
+    "app": "apps/app-1",
+    "app-e2e": "apps/app-e2e",
+    "my-library": "libs/my-library",
+    "second-app": "apps/second-app",
+    "second-app-e2e": "apps/second-app-e2e"
+  }
+}
