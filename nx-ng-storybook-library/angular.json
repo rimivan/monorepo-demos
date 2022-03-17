@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "projects": {
+    "ng-app": "apps/ng-app",
+    "ng-app-e2e": "apps/ng-app-e2e",
+    "shared-ui": "libs/shared/ui",
+    "shared-ui-e2e": "apps/shared-ui-e2e"
+  }
+}
