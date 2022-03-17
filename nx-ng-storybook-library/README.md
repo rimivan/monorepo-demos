@@ -1,4 +1,13 @@
+# Run projects
+Use NX console from VSCode or Webstorm
+## CLI
+Run a project: 
 
+```nx serve _project-name_ ```
+
+Run Storybook ds for a project: 
+
+```nx run _project-name_:storybook ```
 
 # MyOrg
 
