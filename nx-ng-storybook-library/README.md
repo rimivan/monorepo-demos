@@ -12,7 +12,11 @@ Run Storybook ds for a project:
 
 ```nx run _project-name_:storybook ```
 
-OR USE NX TOOL ON VSCODE OR WEBSTORM
+## REFERENCES
+
+https://nx.dev/storybook/overview-angular
+
+https://blog.nrwl.io/build-your-design-system-with-storybook-nx-e3bde4087ad8
 
 # MyOrg
 
