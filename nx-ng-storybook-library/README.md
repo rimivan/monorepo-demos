@@ -1,6 +1,9 @@
 # Run projects
 Use NX console from VSCode or Webstorm
 ## CLI
+Install
+```npm install ```
+
 Run a project: 
 
 ```nx serve _project-name_ ```
@@ -8,6 +11,8 @@ Run a project:
 Run Storybook ds for a project: 
 
 ```nx run _project-name_:storybook ```
+
+OR USE NX TOOL ON VSCODE OR WEBSTORM
 
 # MyOrg
 
